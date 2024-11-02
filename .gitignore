@@ -151,6 +151,12 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
+# Security and variable
+.env
+
+# Notebook
+JN/
+
 # Cython debug symbols
 cython_debug/
 
